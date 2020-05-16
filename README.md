@@ -1,4 +1,4 @@
-** Nice Libs to Play **
+# Nice Libs to Play
 
 * State Management
   - KeaJS
