@@ -1,5 +1,9 @@
 # Nice Libs to Play
 
+* Data Fetch
+  - remote-data-ts
+  - fetcher-ts
+
 * State Management
   - KeaJS
   - RecoilJS
@@ -11,13 +15,17 @@
 * Hooks
   - https://github.com/alewin/useWorker
 
-
 * Runtimes
   - Deno
 
 
 * Misc
   - FuseJS
+  - io-ts
+  - retry-ts
+  - waveguide
+  - matechs-effect
+  - 
 
 
 ** Good Information Resources ** 
