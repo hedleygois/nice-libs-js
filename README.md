@@ -7,6 +7,7 @@
 * State Management
   - KeaJS
   - RecoilJS
+  - Reusable
 
 * Testing
   - Majestic
@@ -25,6 +26,7 @@
   - retry-ts
   - waveguide
   - matechs-effect
+  - https://github.com/fido-alliance/webauthn-demo
   - 
 
 
@@ -34,3 +36,4 @@
 * https://github.com/mdevils/typescript-exercises
 * https://testing-library.com/docs/guide-which-query
 * https://1loc.dev/
+* https://gabrieluizramos.com.br/entendendo-o-v8-peca-por-peca/
