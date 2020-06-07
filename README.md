@@ -16,9 +16,11 @@
 * Hooks
   - https://github.com/alewin/useWorker
 
+* Bundlers
+  - Snowpack v2
+
 * Runtimes
   - Deno
-
 
 * Misc
   - FuseJS
