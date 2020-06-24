@@ -8,6 +8,7 @@
   - KeaJS
   - RecoilJS
   - Reusable
+  - react-query
 
 * Testing
   - Majestic
