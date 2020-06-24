@@ -22,6 +22,9 @@
 * Runtimes
   - Deno
 
+* Rendering
+  - Noact
+
 * Misc
   - FuseJS
   - io-ts
