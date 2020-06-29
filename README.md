@@ -13,6 +13,7 @@
 * Testing
   - Majestic
   - Jest-circus
+  - PollyJS
 
 * Hooks
   - https://github.com/alewin/useWorker
