@@ -3,6 +3,7 @@
 * Data Fetch
   - remote-data-ts
   - fetcher-ts
+  - SWR (a big maybe)
 
 * State Management
   - KeaJS
