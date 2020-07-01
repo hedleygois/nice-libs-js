@@ -46,3 +46,4 @@
 * https://1loc.dev/
 * https://gabrieluizramos.com.br/entendendo-o-v8-peca-por-peca/
 * https://dev.p.ota.to/post/server-side-rendering-react-app-with-deno-4qf28vm8axb/
+* https://web.dev/granular-chunking-nextjs/
