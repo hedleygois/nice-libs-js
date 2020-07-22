@@ -35,7 +35,7 @@
   - waveguide
   - matechs-effect
   - https://github.com/fido-alliance/webauthn-demo
-  - 
+  - https://github.com/lmammino/financial 
 
 
 ** Good Information Resources ** 
