@@ -36,6 +36,7 @@
   - matechs-effect
   - https://github.com/fido-alliance/webauthn-demo
   - https://github.com/lmammino/financial 
+  - https://github.com/craig1123/react-recipes
 
 
 ** Good Information Resources ** 
