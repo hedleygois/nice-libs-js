@@ -49,3 +49,4 @@
 * https://dev.p.ota.to/post/server-side-rendering-react-app-with-deno-4qf28vm8axb/
 * https://web.dev/granular-chunking-nextjs/
 * https://dev.to/gcanti/functional-design-combinators-14pn
+* https://dev.to/ksaaskil/using-fp-ts-for-http-requests-and-validation-131c
