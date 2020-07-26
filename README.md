@@ -37,7 +37,7 @@
   - https://github.com/fido-alliance/webauthn-demo
   - https://github.com/lmammino/financial 
   - https://github.com/craig1123/react-recipes
-
+  - moleculer
 
 ** Good Information Resources ** 
 
