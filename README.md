@@ -50,3 +50,4 @@
 * https://web.dev/granular-chunking-nextjs/
 * https://dev.to/gcanti/functional-design-combinators-14pn
 * https://dev.to/ksaaskil/using-fp-ts-for-http-requests-and-validation-131c
+* https://webkit.org/blog/10308/speculation-in-javascriptcore/
