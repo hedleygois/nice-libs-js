@@ -38,6 +38,9 @@
   - https://github.com/lmammino/financial 
   - https://github.com/craig1123/react-recipes
   - moleculer
+  
+* Node
+ - https://levelup.gitconnected.com/will-node-js-forever-be-the-sluggish-golang-f632130e5c7a
 
 ** Good Information Resources ** 
 
